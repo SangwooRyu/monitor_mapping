@@ -13,3 +13,6 @@ If you have video of black monitor and picture, you can map screen and picture.
  
 # How to execute?
 filename.exe image_name video_name point_filename
+
+# Result
+data > output.avi
